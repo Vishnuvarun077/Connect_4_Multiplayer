@@ -12,11 +12,6 @@ The Connect 4 Multiplayer Game is a classic two-player strategy game implemented
 - **Restart and End Game Functionality**: Players can restart the game or end it entirely, providing flexibility and control.
 - **Error Handling and Cleanup**: The code includes error handling mechanisms for network communication and Pygame-related operations. Resources are properly cleaned up when the game is exited.
 
-## Demo
-
-Watch the demo of the Connect 4 Multiplayer Game below:
-
-[![Watch the demo](https://img.youtube.com/vi/Gamedemo.webm/0.jpg)](https://github.com/Vishnuvarun077/Connect_4_Multiplayer/blob/main/Gamedemo.webm)
 
 ## Instructions
 
