@@ -12,28 +12,34 @@ The Connect 4 Multiplayer Game is a classic two-player strategy game implemented
 - **Restart and End Game Functionality**: Players can restart the game or end it entirely, providing flexibility and control.
 - **Error Handling and Cleanup**: The code includes error handling mechanisms for network communication and Pygame-related operations. Resources are properly cleaned up when the game is exited.
 
-## Demo and Instructions
+## Demo
+
+Watch the demo of the Connect 4 Multiplayer Game below:
+
+[![Watch the demo](https://img.youtube.com/vi/Gamedemo.webm/0.jpg)](https://github.com/Vishnuvarun077/Connect_4_Multiplayer/blob/main/Gamedemo.webm)
+
+## Instructions
 
 1. **Clone the repository**:
 
-`git clone https://github.com/Vishnuvarun077/Connect-4-Multiplayer-Game.git`
+   `git clone https://github.com/Vishnuvarun077/Connect-4-Multiplayer-Game.git`
 
 2. **Navigate to the project directory**:
 
-`cd Connect-4-Multiplayer-Game`
+   `cd Connect-4-Multiplayer-Game`
 
 3. **Run the game**:
-`python connect4_multiplayer.py`
 
-4. Make sure the other player also runs the same commands menttioned above. If the both players are playing in the same pc make sure to run these files in two seperate terminals.
+   `python connect4_multiplayer.py`
+
+4. Make sure the other player also runs the same commands mentioned above. If both players are playing on the same PC, make sure to run these files in two separate terminals.
+
 5. When prompted, choose whether you want to be the server or the client:
-- If you choose to be the server, the game will wait for a client to connect.
-- If you choose to be the client, the game will prompt you to enter the server's IP address.
+   - If you choose to be the server, the game will wait for a client to connect.
+   - If you choose to be the client, the game will prompt you to enter the server's IP address.
 
 6. Once the connection is established, the game will start, and you can begin playing:
-- Click on a column to drop your piece.
-- The first player to connect four pieces in a row, column, or diagonal wins the game.
+   - Click on a column to drop your piece.
+   - The first player to connect four pieces in a row, column, or diagonal wins the game.
 
 7. You can restart the game or end it using the respective buttons.
-
-
